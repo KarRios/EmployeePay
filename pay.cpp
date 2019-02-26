@@ -3,7 +3,6 @@
 #include <fstream>
 using namespace std;
 
-int size();
 void readData(Person a[],int size);
 void writeData(Person a[],int size);
 
